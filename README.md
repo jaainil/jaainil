@@ -6,7 +6,7 @@
 > Full-Stack Developer passionate about building scalable SaaS platforms and contributing to open-source ecosystems.
 
 - Built and maintain `@imjp/writenex-astro` (npm published)
-- Run [jaainil.com](https://jaainil.com/) — 5K+ monthly readers, 90+ PageSpeed
+- Run [shravonix.com](https://shravonix.com/) — 5K+ monthly readers, 90+ PageSpeed
 - Actively contribute to open-source templates
 - Based in Anand, Gujarat, India
 
@@ -52,7 +52,7 @@
 - Optimized for **<200ms page loads** with Radix UI components
 - Deployed via Vercel with CI/CD
 
-### jaainil.com — Personal Blog
+### shravonix.com — Personal Blog
 - Built with Astro.js, focused on performance and SEO
 - Achieved **90+ PageSpeed** with optimized Core Web Vitals
 - Integrated WriteNex (self-built) for content management
@@ -106,7 +106,7 @@
 
 - 📧 [jainilprajapati9@gmail.com](mailto:jainilprajapati9@gmail.com)
 - 📱 +91 9725284302
-- 🌐 [jaainil.com](https://jaainil.com/)
+- 🌐 [shravonix.com](https://shravonix.com/)
 - 📍 Anand, Gujarat, India
 
 ---
